@@ -4,7 +4,7 @@ LABEL maintainer="vouu <contact@manhtuong.net>" version="7.19.5"
 
 ARG ATLASSIAN_PRODUCTION=bitbucket
 ARG APP_NAME=bitbucket
-ARG APP_VERSION=8.18.0
+ARG APP_VERSION=8.19.0
 ARG AGENT_VERSION=1
 ARG MYSQL_DRIVER_VERSION=8.0.22
 
